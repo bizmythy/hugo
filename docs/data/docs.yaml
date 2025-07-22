@@ -555,6 +555,10 @@ chroma:
     - nsh
     Name: NSIS
   - Aliases:
+    - nu
+    - nushell
+    Name: Nu
+  - Aliases:
     - objective-c
     - objectivec
     - obj-c
