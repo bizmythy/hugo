@@ -190,5 +190,3 @@ require (
 )
 
 go 1.23.0
-
-replace github.com/alecthomas/chroma/v2 => github.com/AndrewCouncil/chroma/v2 v2.0.0-20250721220034-0e031c7fbfc5
